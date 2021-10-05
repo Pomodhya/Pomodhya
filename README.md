@@ -1,5 +1,7 @@
 # About Me
-
+ A goal driven and dynamic 1st year in Biotechnology seeking for great experience in 
+ research and development as an intern. Independent, innovative self who is capable 
+ of successful collaboration and reliable with deadlines.
 <!--
 **Pomodhya/Pomodhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
