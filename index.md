@@ -1,8 +1,9 @@
+# **Pomodhya Salgado**
+
 # ABOUT ME
 
 ![image](https://user-images.githubusercontent.com/91947878/136037187-ed13dcff-9d54-4cfa-a70c-fb33f14935a6.png)
 
-**Pomodhya Salgado**
 
 A goal driven and dynamic 1st year in Biotechnology seeking for great experience in research and development as an intern. Independent, innovative self who is capable of successful collaboration.
 
@@ -27,23 +28,23 @@ Care Tele (PVT) Ltd. Panadura
 
 # SKILLS
 
--Detail Oriented                 
--Critical thinking                 
--Interpersonal skills          
--Problem solving               
--Time management
+- Detail Oriented                 
+- Critical thinking                 
+- Interpersonal skills          
+- Problem solving               
+- Time management
 
 # LANGUAGES
 
--Sinhala
--English                            
--Tamil                               
--French
+- Sinhala
+- English
+- Tamil                               
+- French
 
 # HOBBIES
 
-Poetry
-Music
+* Poetry
+* Music
 
 # RESUME
 
