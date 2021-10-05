@@ -43,6 +43,7 @@ Care Tele (PVT) Ltd. Panadura
 # HOBBIES
 
 Poetry
+Music
 
 # RESUME
 
